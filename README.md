@@ -7,12 +7,7 @@
 
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -76,6 +71,13 @@
 - **Spanish (native)**
 
 - **English (Intermediate)**
+
+-----
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Certificates </b>
+
+
+- **Scrum Fundamentals**:                           SCRUMstudy
 
 -----
 
