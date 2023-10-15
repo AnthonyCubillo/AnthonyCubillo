@@ -29,7 +29,6 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![R](https://img.shields.io/badge/R%20-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![SQL](https://img.shields.io/badge/SQL%20-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -39,8 +38,6 @@
    <br>
   
   ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure%20-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab%20-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - **Operating Systems**:
